@@ -11,7 +11,8 @@ https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study49244460
 Map View
 https://www.movebank.org/cms/webapp?gwt_fragment=page=search_map 
 
-Study Statistics	
+Study Statistics
+
 Number of Animals	46
 Number of Tags	43
 Number of Deployments	46
