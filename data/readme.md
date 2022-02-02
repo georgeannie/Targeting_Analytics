@@ -29,4 +29,6 @@ PUBLISHED FINDINGS:
 The calm during the storm: Snowfall events decrease the movement rates of grey wolves (Canis lupus)
 Inferring movement behavior from telemetry data
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6209196/ 
+
+Snowfall Data: 
 https://github.com/adroghini/wolves_snowfall
