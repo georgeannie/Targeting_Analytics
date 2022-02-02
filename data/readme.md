@@ -22,7 +22,7 @@ Number of Deployed Locations	239194
 Number of Records	Deployed (outliers) / Total (outliers)
 GPS	239194 (0) / 239196 (0)
 
-Reference reference data from web (Note:need to find URL)
+Individual Wolf Reference data (with Study-Site attribute that we might use for a wolf pack designation) also at https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study492444603
 
 PUBLISHED FINDINGS:
 
