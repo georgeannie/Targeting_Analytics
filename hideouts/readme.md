@@ -1,3 +1,5 @@
-Python Code
-Tableau Visuzaliztion
-Data stored in Data folder
+Python Code - here
+
+Tableau Visuzaliztion - here 
+
+Data - "cleaned.csv" in Data folder
